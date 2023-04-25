@@ -1,7 +1,6 @@
 DuckOS
 =====
 https://github.com/byteduck/duckOS
-.. _installation:
 
 Installation
 ------------
